@@ -1,0 +1,96 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Daily Routine</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to right, #89f7fe, #66a6ff);
+            margin: 0;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .container {
+            background: white;
+            max-width: 600px;
+            margin: auto;
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 4px 15px #555;
+        }
+
+        h1 {
+            color: #2455a4;
+        }
+
+        h2 {
+            color: #e05b8d;
+        }
+
+        .routine {
+            background: #eef5ff;
+            margin: 12px;
+            padding: 12px;
+            border-radius: 10px;
+            text-align: left;
+        }
+
+        .routine p {
+            color: #333;
+        }
+
+        footer {
+            margin-top: 20px;
+            color: #555;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>🌸 My Daily Routine 🌸</h1>
+
+        <h2>Welcome to My Website</h2>
+
+        <p>Hello! My name is Komal.</p>
+        <p>This is my daily routine website.</p>
+
+        <div class="routine">
+            <h3>🌅 6:00 AM - Wake Up</h3>
+            <p>I wake up early in the morning.</p>
+        </div>
+
+        <div class="routine">
+            <h3>🚌 8:00 AM - Go to College</h3>
+            <p>I get ready and go to college by bus.</p>
+        </div>
+
+        <div class="routine">
+            <h3>📚 9:00 AM - College Time</h3>
+            <p>I attend my lectures and learn new things.</p>
+        </div>
+
+        <div class="routine">
+            <h3>💻 6:00 PM - Study Time</h3>
+            <p>I study and practice coding.</p>
+        </div>
+
+        <div class="routine">
+            <h3>🌙 9:00 PM - Sleep Time</h3>
+            <p>I go to bed and prepare for the next day.</p>
+        </div>
+
+        <footer>
+            <p>Made with ❤️ by Komal</p>
+            <p>Keep Learning, Keep Growing!</p>
+        </footer>
+
+    </div>
+
+</body>
+</html>
